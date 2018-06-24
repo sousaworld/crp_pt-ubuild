@@ -17,7 +17,7 @@ page_sections:
     link_text: Team
   cta:
     url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
-    button_text: Download
+    button_text: Register
 - template: 3-column-text
   block: three-column-1
 - template: hero-banner-w-image
